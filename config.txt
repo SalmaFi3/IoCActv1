@@ -1,0 +1,2 @@
+net.salma.dao.DaoImpl
+net.salma.metier.MetierImpl
