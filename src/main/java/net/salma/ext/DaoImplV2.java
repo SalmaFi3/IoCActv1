@@ -1,7 +1,11 @@
 package net.salma.ext;
 
 import net.salma.dao.IDao;
+import org.springframework.stereotype.Component;
 
+
+
+@Component ("dV2")
     public class DaoImplV2 implements IDao {
         @Override
         public double getData() {
